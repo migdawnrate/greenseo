@@ -13,8 +13,9 @@ User-agent: Nutch
 User-agent: Offline Explorer
 User-agent: Scrapy
 User-agent: YouBot
-User-agent: anthropic-ai
 User-agent: cohere-ai
 User-agent: omgili
 User-agent: thisisnotabrowser
 Disallow: /
+
+Sitemap: https://greenseo.org/sitemap.xml
